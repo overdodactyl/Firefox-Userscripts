@@ -8,4 +8,4 @@ If used from within a Firefox container, the new tab remains in that container.
 
 Due to Firefox limitations, a userscript can not open `about:newtab`.  Therefore, `about:blank` is opened by default.
 
-This script can also be found on Greasy Fork [here](https://greasyfork.org/en/scripts/35652-open-new-tab).
+This script can also be installed and updated from Greasy Fork. [Link](https://greasyfork.org/en/scripts/35652-open-new-tab).
