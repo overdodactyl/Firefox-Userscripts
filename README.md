@@ -1,3 +1,3 @@
 # Firefox-Userscripts
 
-[ToDo]
+##Open a New Tab
