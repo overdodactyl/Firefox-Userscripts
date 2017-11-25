@@ -1,6 +1,6 @@
 # Firefox-Userscripts
 
-## Open a New Tab
+### Open a New Tab
 
 A simple script to open a new tab from the context menu.  
 
